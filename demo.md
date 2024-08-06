@@ -7,9 +7,9 @@ Multiplication
 1 Happy Path
 
 Function will take two inputs or integers.
-Function will take no more than two numbers, as specified in the parameters.
+Function will expect action to be take no more than two numbers, as specified in the parameters.
 Function will not take a string
-Function will Multiply the two integers together
+Function will expect action to be Multiply the two integers together
 Function will return the product
 
 1. Unhappy Path
@@ -44,8 +44,8 @@ Concat Odds
 
 Functional Test 3. Happy Path
 Function will take user to checkout page
-Function will give user two options check out as Guest or Checkout as Member
-Function will give user option to sign up if they select Guest option.
+Function will expect action to be where it gives user two options check out as Guest or Checkout as Member
+Function will expect action to be where it gives user option to sign up if they select Guest option.
 Function will allow user to input user id and password in drop down menu or different page if they want to sign in
 Function will provide error if user id (email) and password are invalid
 Function will take user back to checkout cart once they sign into their account
